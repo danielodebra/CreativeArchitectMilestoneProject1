@@ -1,5 +1,5 @@
 header {
-    background: url(assets/images/pexels.jpg);
+    background: url(/assets/images/pexels.jpg);
     background-size: cover;
     background-position: center;
     min-height: 1000px;
